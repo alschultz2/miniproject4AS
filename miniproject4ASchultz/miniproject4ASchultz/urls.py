@@ -5,6 +5,5 @@ from django.views.generic import TemplateView
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('hunterlog/', include('hunterlog.urls')),
-    path('', TemplateView.as_view(template_name='home.html')),  # Use your desired home template
-    # Add other URL patterns if needed
+    path('', TemplateView.as_view(template_name='home.html')), 
 ]
