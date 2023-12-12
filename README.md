@@ -30,11 +30,11 @@ By running this line, you should  be able to execute the program with the requir
 ## How to run
 In a terminal window, please type the following:
 ```
-python main.py
+
 ```
 Below the command that you enter, you will see in blue hypertext:
 ```
-http://127.0.0.1:5000
+
 ```
 By clicking on it the program will open a webpage for the project. 
 Once you are on the webpage, you will simply have to register for an account to be able to see the weapon list. 
